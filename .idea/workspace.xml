@@ -5,19 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68416272-8ef8-471e-884a-7eaa8da80334" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDir/ScreenCapture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDir/Sorter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDir/ValidarIdentidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesDir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testes.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testes/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testes/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testes/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testes/Testes.csproj" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDir/MusicOrganizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesDir/RegularExpressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/2091.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/2116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/2127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/570.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/571.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/572.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/573.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/574.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODO start_filename2159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2068.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2071.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2081.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2082.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2083.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2086.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2091.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2093.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2095.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2097.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2098.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2099.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2106.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2107.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2117.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2134.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2141.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2145.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2151.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2154.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2156.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2161.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2162.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2168.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captures/TODOdir2169.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestesDir/ScreenCapture.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestesDir/ScreenCapture.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +146,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="578">
+              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
@@ -40,13 +155,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScreenCapture.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RegularExpressions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestesDir/RegularExpressions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicOrganizer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestesDir/MusicOrganizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenCapture.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestesDir/ScreenCapture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="697">
+              <caret line="44" column="40" selection-end-line="44" selection-end-column="40" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screengrab_win32.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/desktopmagic/screengrab_win32.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5321">
+              <caret line="319" column="4" selection-start-line="319" selection-start-column="4" selection-end-line="319" selection-end-column="4" />
+              <folding>
+                <element signature="e#74#111#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,11 +209,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sorter.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Sorter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestesDir/Sorter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -99,6 +247,7 @@
       <find>dir</find>
       <find>startfn</find>
       <find>iscpf</find>
+      <find>clear_dirs</find>
     </findStrings>
     <replaceStrings>
       <replace>main</replace>
@@ -110,6 +259,7 @@
       <replace>startfn</replace>
       <replace>start_filename</replace>
       <replace>is_cpf</replace>
+      <replace>organizer</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -121,15 +271,26 @@
         <option value="$PROJECT_DIR$/TestesDir/Sorter.py" />
         <option value="$PROJECT_DIR$/Util.py" />
         <option value="$PROJECT_DIR$/TestesDir/ScrennCapture.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/TestesDir/ValidarIdentidade.py" />
         <option value="$PROJECT_DIR$/TestesDir/ScreenCapture.py" />
+        <option value="$PROJECT_DIR$/TestesDir/MusicOrganizer.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/TestesDir/RegularExpressions.py" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1288" />
-    <option name="y" value="39" />
+    <option name="x" value="254" />
+    <option name="y" value="-23" />
     <option name="width" value="1296" />
     <option name="height" value="736" />
   </component>
@@ -141,7 +302,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,16 +309,16 @@
               <item name="Testes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Testes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Testes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Testes" type="462c0819:PsiDirectoryNode" />
-              <item name="TestesDir" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main">
+  <component name="RunManager" selected="Python.MusicOrganizer">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Testes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +345,27 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MusicOrganizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Testes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestesDir" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesDir/MusicOrganizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,25 +383,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesDir/ScreenCapture.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Sorter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Testes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestesDir" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesDir/Sorter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,6 +402,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -257,6 +421,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesDir/ValidarIdentidade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -265,18 +430,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Main" />
-      <item itemvalue="Python.Sorter" />
       <item itemvalue="Python.ValidarIdentidade" />
       <item itemvalue="Python.Util" />
       <item itemvalue="Python.ScreenCapture" />
+      <item itemvalue="Python.MusicOrganizer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MusicOrganizer" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.ScreenCapture" />
         <item itemvalue="Python.Util" />
         <item itemvalue="Python.ValidarIdentidade" />
-        <item itemvalue="Python.Sorter" />
       </list>
     </recent_temporary>
   </component>
@@ -294,32 +459,43 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="39" width="1296" height="736" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.265625" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" visible="true" weight="0.3542673" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.3542673" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.3542601" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
+      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Testes" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -327,6 +503,78 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/Sorter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/ValidarIdentidade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/ScreenCapture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="44" column="40" lean-forward="true" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/Sorter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/ValidarIdentidade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/ScreenCapture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -497,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestesDir/Sorter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/Xlib/support/unix_connect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-675">
@@ -558,34 +799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/449530102/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5246" column="8" selection-start-line="5246" selection-start-column="8" selection-end-line="5246" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/datetime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
           <caret line="453" column="19" lean-forward="true" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,13 +813,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/desktopmagic/screengrab_win32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5321">
+          <caret line="319" column="4" selection-start-line="319" selection-start-column="4" selection-end-line="319" selection-end-column="4" />
+          <folding>
+            <element signature="e#74#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestesDir/ScreenCapture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="697">
+          <caret line="44" column="40" selection-end-line="44" selection-end-column="40" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/449530102/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="380" column="4" selection-start-line="380" selection-start-column="4" selection-end-line="380" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/MusicOrganizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/449530102/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5113" column="8" selection-start-line="5113" selection-start-column="8" selection-end-line="5113" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/RegularExpressions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestesDir/Sorter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>

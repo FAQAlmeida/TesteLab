@@ -1,7 +1,7 @@
 import datetime
 import pynput
 import os
-from PIL import ImageGrab
+from mss import mss
 
 
 class ScreenCapture:
@@ -37,9 +37,9 @@ class ScreenCapture:
     def screen_capture(self):
         date = datetime.datetime.now()
         filename = date.year + date.month + date.day + date.hour + date.minute + date.second
-        image = ImageGrab.grab()
-        if os.path.isfile(f'Captures\{self.start_filename}{filename}.png'):
-            image.save(f'Captures\{self.start_filename}{filename}{self.count}.png')
-        else:
-            image.save(f'Captures\{self.start_filename}{filename}.png')
+        with mss() as sct:
+            if os.path.isfile(f'Captures\{self.start_filename}{filename}.png'):
+                sct.shot(mon=-1, output=f'Captures/{self.start_filename}{filename}.png')
+            else:
+                sct.shot(mon=-1, output=f'Captures/{self.start_filename}{filename}{self.count}.png')
         print(f'Não Salvo {self.count}')

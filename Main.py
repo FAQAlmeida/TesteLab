@@ -6,6 +6,7 @@ class Main:
     options = {1: 'ID',
                2: 'Sorter',
                3: 'screenlog',
+               4: 'regular expressions',
                0: 'sair'}
 
     def __init__(self):
@@ -33,6 +34,8 @@ class Main:
                 Sorter.Main()
             elif u.equals(resp, '3') or u.equals(resp.upper(), 'SCREENLOG'):
                 ScreenCapture.ScreenCapture()
+            elif u.equals(resp, '4') or u.equals(resp.upper(), 'REGULAR EXPRESSIONS'):
+                pass
             elif u.equals(resp, '0') or u.equals(resp.upper(), 'SAIR'):
                 exit(0)
         except Exception as ex:
